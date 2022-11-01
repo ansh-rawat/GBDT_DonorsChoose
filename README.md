@@ -1,1 +1,1 @@
-# Implementing Gradient Boosting Decision Trees on DonorsChoose Dataset.
+# Implementing Gradient Boosted Decision Trees on DonorsChoose Dataset.
